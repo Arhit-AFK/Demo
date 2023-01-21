@@ -1,3 +1,3 @@
 #tutorial on repository
 
-Create a repository by clicking on to new file menu
+Create a repository by clicking on to new file menu::
